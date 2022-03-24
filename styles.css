@@ -62,4 +62,6 @@ body {
     justify-content: center;
   }
   
-  
+  #block {
+    display: block;
+  }
